@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:centos7.3.1611
 
 MAINTAINER Carlos Bittarello <cbittarello@gmail.com>
 
